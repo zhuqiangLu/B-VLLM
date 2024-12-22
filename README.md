@@ -42,3 +42,16 @@ bash scripts/vllava/finetune.sh
 ## Evaluation 
 Comning Soon
 
+## Acknowledgement 
+This repo is developed upon [VideoLLaMA2](https://github.com/DAMO-NLP-SG/VideoLLaMA2) and [LLaMA-VID](https://github.com/dvlab-research/LLaMA-VID)
+
+## Cite
+```
+@article{lu2024b,
+  title={B-VLLM: A Vision Large Language Model with Balanced Spatio-Temporal Tokens},
+  author={Lu, Zhuqiang and Yin, Zhenfei and He, Mengwei and Wang, Zhihui and Liu, Zicheng and Wang, Zhiyong and Hu, Kun},
+  journal={arXiv preprint arXiv:2412.09919},
+  year={2024}
+}
+```
+
